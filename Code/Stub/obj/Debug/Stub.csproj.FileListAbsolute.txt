@@ -1,0 +1,27 @@
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\Stub\bin\Debug\Stub.dll
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\Stub\bin\Debug\Stub.pdb
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\Stub\bin\Debug\Modele.dll
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\Stub\bin\Debug\Modele.pdb
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\Stub\obj\Debug\Stub.csproj.CoreCompileInputs.cache
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\Stub\obj\Debug\Stub.csproj.CopyComplete
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\Stub\obj\Debug\Stub.dll
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\Stub\obj\Debug\Stub.pdb
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\Stub\obj\Debug\Stub.csprojAssemblyReference.cache
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Période 4\C#\Code\Stub\bin\Debug\Stub.dll
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Période 4\C#\Code\Stub\bin\Debug\Stub.pdb
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Période 4\C#\Code\Stub\bin\Debug\Modele.dll
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Période 4\C#\Code\Stub\bin\Debug\Modele.pdb
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Période 4\C#\Code\Stub\obj\Debug\Stub.csprojAssemblyReference.cache
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Période 4\C#\Code\Stub\obj\Debug\Stub.csproj.CoreCompileInputs.cache
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Période 4\C#\Code\Stub\obj\Debug\Stub.csproj.CopyComplete
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Période 4\C#\Code\Stub\obj\Debug\Stub.dll
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Période 4\C#\Code\Stub\obj\Debug\Stub.pdb
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Projet\Stub\bin\Debug\Stub.dll
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Projet\Stub\bin\Debug\Stub.pdb
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Projet\Stub\bin\Debug\Modele.dll
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Projet\Stub\bin\Debug\Modele.pdb
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Projet\Stub\obj\Debug\Stub.csprojAssemblyReference.cache
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Projet\Stub\obj\Debug\Stub.csproj.CoreCompileInputs.cache
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Projet\Stub\obj\Debug\Stub.csproj.CopyComplete
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Projet\Stub\obj\Debug\Stub.dll
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Projet\Stub\obj\Debug\Stub.pdb

@@ -1,0 +1,15 @@
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\Console\obj\Debug\Console.csprojAssemblyReference.cache
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\Console\obj\Debug\Console.csproj.CoreCompileInputs.cache
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\Console\bin\Debug\Console.exe.config
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\Console\bin\Debug\Console.exe
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\Console\bin\Debug\Console.pdb
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\Console\bin\Debug\Modele.dll
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\Console\bin\Debug\SkyrimProjet.exe
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\Console\bin\Debug\Stub.dll
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\Console\bin\Debug\Modele.pdb
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\Console\bin\Debug\SkyrimProjet.pdb
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\Console\bin\Debug\SkyrimProjet.exe.config
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\Console\bin\Debug\Stub.pdb
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\Console\obj\Debug\Console.csproj.CopyComplete
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\Console\obj\Debug\Console.exe
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\Console\obj\Debug\Console.pdb

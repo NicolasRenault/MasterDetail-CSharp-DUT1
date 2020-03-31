@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EnsembleRace xmlns:i="http://www.w3.org/2001/XMLSchema-instance" z:Id="1" xmlns:z="http://schemas.microsoft.com/2003/10/Serialization/" xmlns="http://schemas.datacontract.org/2004/07/Modele">
+  <LesRaces z:Id="2" z:Size="10">
+    <Race z:Id="3">
+      <CheminImage z:Id="4">../Images/races/altmer.jpeg</CheminImage>
+      <Descriptif z:Id="5">Dans la langue commune, le peuple à la peau dorée de l’Archipel de l'Automne s'appelle « Haut-Elfe », mais dans leur propre langue, ils s’appellent eux-mêmes les « Altmers », ou les « Gens Cultivés ». Les Hauts-Elfes se considèrent souvent comme le peuple le plus civilisé de Tamriel. En effet, la société Altmer est le berceau de la civilisation et de la magie telle qu'on les connaît à Tamriel ; le langage commun de l’Empire, le Tamriellien, tire d'ailleurs une partie de ses origines de la langue et de l’écriture Altmer et la plupart des arts, artisanats, lois et sciences de l'Empire sont issues des connaissances Altmers. La haute estime que les Altmers ont d’eux-mêmes et leur attitude narcissique engendre un dédain pour les autres races, ce qui est souvent assez mal perçu.</Descriptif>
+      <Nom z:Id="6">Altmer</Nom>
+      <Competence1 z:Id="7">Magie</Competence1>
+      <Competence2 z:Id="8">Archerie</Competence2>
+      <Competence3 z:Id="9">Arme</Competence3>
+      <IntCompetence1>25</IntCompetence1>
+      <IntCompetence2>20</IntCompetence2>
+      <IntCompetence3>20</IntCompetence3>
+      <Stats z:Id="10">
+        <NbPtsDeMagie>100</NbPtsDeMagie>
+        <NbPtsDeVie>100</NbPtsDeVie>
+        <NbPtsDeVigueur>100</NbPtsDeVigueur>
+      </Stats>
+    </Race>
+    <Race z:Id="11">
+      <CheminImage z:Id="12">../Images/races/argonien.jpeg</CheminImage>
+      <Descriptif z:Id="13">Les Argoniens, aussi appelés Saxhleel, sont des créatures autochtones ayant l'apparence d'homme reptile. Ils vivent dans la province du Marais Noir, territoire extrêmement dangereux pour les autres races. Ils ont été créés par les Hists, premières créatures mortelles avec les Ehlnofeys, dans le but d'entrer en communication avec ces derniers. Ils servaient également de garde du corps des Hists. Avec les Khajiits, ils sont la seule race autochtone face aux humains et au elfes. Refoulés par ces derniers, ils ne forment qu'une minorité sur le continent. Peu d'entre eux sortent de leur Marais. </Descriptif>
+      <Nom z:Id="14">Argonien</Nom>
+      <Competence1 z:Id="15">Vol</Competence1>
+      <Competence2 z:Id="16">Armure</Competence2>
+      <Competence3 z:Ref="7" i:nil="true" />
+      <IntCompetence1>25</IntCompetence1>
+      <IntCompetence2>20</IntCompetence2>
+      <IntCompetence3>20</IntCompetence3>
+      <Stats z:Ref="10" i:nil="true" />
+    </Race>
+    <Race z:Id="17">
+      <CheminImage z:Id="18">../Images/races/bosmer.jpeg</CheminImage>
+      <Descriptif z:Id="19">Les Elfes des bois (ou Bosmer) sont le clan elfique de Val-Boisé qui préfèrent une existence simple, en harmonie avec la terre et les animaux. Ce sont les meilleurs archers de Tamriel et ils sont connus pour leur capacité à commander les animaux. Ils mênent une vie plus modeste que leurs cousins Dunmers ou Altmers.La cause de cette vie simple est partiellement liée au pacte vert, pacte qui leur interdit de faire du tort à une plante. Les Bosmer sont issus de la liaison entre Nirni et Y'ffer (où Y'ffre). Suite à la 'trahison' d'Azura découvert par Y'ffer, Nirni accepta d'engendrer une nouvelle race avec celui-ci, et créa ainsi la race des Elfes des bois. Ceci explique le culte que voue les Bosmers à Y'ffre aujourd'hui.</Descriptif>
+      <Nom z:Id="20">Bosmer</Nom>
+      <Competence1 z:Ref="8" i:nil="true" />
+      <Competence2 z:Ref="15" i:nil="true" />
+      <Competence3 z:Id="21">Alchimie</Competence3>
+      <IntCompetence1>25</IntCompetence1>
+      <IntCompetence2>20</IntCompetence2>
+      <IntCompetence3>20</IntCompetence3>
+      <Stats z:Ref="10" i:nil="true" />
+    </Race>
+    <Race z:Id="22">
+      <CheminImage z:Id="23">../Images/races/bréton.jpeg</CheminImage>
+      <Descriptif z:Id="24">Les Brétons, de l'Ehlnofex 'beratu', ou 'moitié', sont les descendants humains qui viennent de la province de Haute-Roche. Selon le guide de poche de l'Empire, troisième édition, ils descendent des Nédiques et des Aldmers, tandis que d'autres sources prétendent qu'ils étaient le mélange du sang des Atmorans et des Aldmers. Les Altmers pensèrent à créer une nouvelle race avec leur propre sang qu'ils considèrent comme 'ancien' ou 'supérieur', et ce en s'accouplant avec d'autres races. Les Brétons sont parfois appelés 'Manmers', ou 'Hommes - elfes', à cause de cela. </Descriptif>
+      <Nom z:Id="25">Bréton</Nom>
+      <Competence1 z:Ref="7" i:nil="true" />
+      <Competence2 z:Id="26">Eloquence</Competence2>
+      <Competence3 z:Ref="21" i:nil="true" />
+      <IntCompetence1>25</IntCompetence1>
+      <IntCompetence2>20</IntCompetence2>
+      <IntCompetence3>20</IntCompetence3>
+      <Stats z:Ref="10" i:nil="true" />
+    </Race>
+    <Race z:Id="27">
+      <CheminImage z:Id="28">../Images/races/dunmer.jpeg</CheminImage>
+      <Descriptif z:Id="29">Les Elfes Noirs — aussi appelés Dunmers en Morrowind, leur province d'origine— sont des elfes spécialistes de la furtivité et de la magie de destruction. Forts, intelligents, vifs, distants et réservés, on dit pourtant des Dunmers qu'ils sont des êtres infortunés et que leur destinée ne leur sera jamais favorable. </Descriptif>
+      <Nom z:Id="30">Dunmer</Nom>
+      <Competence1 z:Id="31">Destruction</Competence1>
+      <Competence2 z:Id="32">Furtivité</Competence2>
+      <Competence3 z:Ref="21" i:nil="true" />
+      <IntCompetence1>25</IntCompetence1>
+      <IntCompetence2>20</IntCompetence2>
+      <IntCompetence3>20</IntCompetence3>
+      <Stats z:Ref="10" i:nil="true" />
+    </Race>
+    <Race z:Id="33">
+      <CheminImage z:Id="34">../Images/races/imperial.jpeg</CheminImage>
+      <Descriptif z:Id="35">Les Impériaux, aussi connu comme les Cyrodiliens ou les Cyrodiils, sont une race humaines de Cyrodiil, la province centrale de Tamriel. Les membres de la race impériale sont parmi les plus éduqués, les plus riches et les mieux réputés de Tamriel. Originaires de la province cosmopolite et civilisée de Cyrodiil, ils se sont révélés être des diplomates astucieux, des commerçants et des stratèges. </Descriptif>
+      <Nom z:Id="36">Impérial</Nom>
+      <Competence1 z:Id="37">Guérison</Competence1>
+      <Competence2 z:Ref="9" i:nil="true" />
+      <Competence3 z:Id="38">Enchantement</Competence3>
+      <IntCompetence1>25</IntCompetence1>
+      <IntCompetence2>20</IntCompetence2>
+      <IntCompetence3>20</IntCompetence3>
+      <Stats z:Ref="10" i:nil="true" />
+    </Race>
+    <Race z:Id="39">
+      <CheminImage z:Id="40">../Images/races/khajiit.jpeg</CheminImage>
+      <Descriptif z:Id="41">Les Khajiits sont l'une des races jouables de la série The Elder Scrolls. Ils ont en général l'apparence de félins, même si leur forme peut changer. Ils vivent dans le désert d'Elsweyr. Ils sont connus pour leurs cultures de sucre de lune qu'ils transforment en skooma. Il existe quinze espèces de Khajiit différentes, tous possédant des caractéristiques particulières. Ce qui détermine l'apparence d'un Khajiit à la naissance, ce sont les phases des deux lunes Masser et Secunda. Par rapport aux phases de ces lunes, les Khajiits nouveaux-nés auront une forme différente, dont les transformations seront visibles quelques semaines après leur naissance.</Descriptif>
+      <Nom z:Id="42">Khajiit</Nom>
+      <Competence1 z:Ref="32" i:nil="true" />
+      <Competence2 z:Ref="15" i:nil="true" />
+      <Competence3 z:Ref="21" i:nil="true" />
+      <IntCompetence1>25</IntCompetence1>
+      <IntCompetence2>20</IntCompetence2>
+      <IntCompetence3>20</IntCompetence3>
+      <Stats z:Ref="10" i:nil="true" />
+    </Race>
+    <Race z:Id="43">
+      <CheminImage z:Id="44">../Images/races/nordique.jpeg</CheminImage>
+      <Descriptif z:Id="45">Les Nordiques (race par défaut dans The Elder Scrolls V: Skyrim) sont les habitants de la terre du nord de Tamriel nommée Bordeciel. Ils sont également appelés les Enfants du ciel, car selon les légendes, c'est en Bordeciel, au sommet de La Gorge du Monde, que les Nordiques furent créés, quand la déesse Kyne insuffla la vie aux premiers Hommes. Ils sont principalement connus pour leur résistance accrue au froid glacial et pour compter parmis les guerriers les plus brave et redoutés de Tamriel.Les Nordiques étaient autrefois connus en tant qu'Atmorans, du continent du nord, Atmora. La culture de ces anciens Nordiques est voilée de mystère mais elle était essentiellement basée sur la force et le courage ainsi qu'à la magie lié aux éléments et à l'essence vitale du corps humain, les Nordiques des anciens temps faisaient des offrandes de bêtes aux dieux de leur Panthéon, ils vénéraient également les dragons. </Descriptif>
+      <Nom z:Id="46">Nordique</Nom>
+      <Competence1 z:Id="47">Deux Mains</Competence1>
+      <Competence2 z:Id="48">Forgeage</Competence2>
+      <Competence3 z:Ref="26" i:nil="true" />
+      <IntCompetence1>25</IntCompetence1>
+      <IntCompetence2>20</IntCompetence2>
+      <IntCompetence3>20</IntCompetence3>
+      <Stats z:Ref="10" i:nil="true" />
+    </Race>
+    <Race z:Id="49">
+      <CheminImage z:Id="50">../Images/races/orsimer.jpeg</CheminImage>
+      <Descriptif z:Id="51">Les Orsimers, ou plus communément les Orques (parfois orthographié, 'Orcs'), sont considérés comme l'un des peuples les plus barbares de Nirn. Il sont originaires des régions montagneuses de Tamriel, se concentrant massivement sur un territoire appelé Orsinium.Après l'arrivée des Hommes en Tamriel, les Orques exilés fuyant les terres de Haute-Roche, Cyrodiil et Bordeciel suite à l'expansion des grands empires, durent chercher refuge, et fondèrent diverses colonies Orsimers à l'écart de la civilisation, un peu partout dans les montagnes recluses de Tamriel : les Montagnes de Wrothgar et de la Queue du Dragon en Haute-Roche, mais également dans les montagnes de Morrowind, Lenclume, et Bordeciel, où ils y vivent dans divers bastions. </Descriptif>
+      <Nom z:Id="52">Orsimer</Nom>
+      <Competence1 z:Ref="16" i:nil="true" />
+      <Competence2 z:Id="53">Main</Competence2>
+      <Competence3 z:Ref="38" i:nil="true" />
+      <IntCompetence1>25</IntCompetence1>
+      <IntCompetence2>20</IntCompetence2>
+      <IntCompetence3>20</IntCompetence3>
+      <Stats z:Ref="10" i:nil="true" />
+    </Race>
+    <Race z:Id="54">
+      <CheminImage z:Id="55">../Images/races/rougegarde.jpeg</CheminImage>
+      <Descriptif z:Id="56">Les Rougegardes sont de grands guerriers à la peau foncée qui viennent de Lenclume. Ils sont les guerriers les plus redoutables de Tamriel, les plus courageux à ce que l'on dit, notamment dans la Légion Impériale. Étant les guerriers les plus combattifs, ils sont craints de toutes les armées. Les Rougegardes sont originaires de Lenclume, une province au climat chaud (mais moins torride qu'Elsweyr) qui est frontalière à Bordeciel par le Nord-Est, à Haute-Roche par le Nord et par le Sud à Cyrodiil. </Descriptif>
+      <Nom z:Id="57">Rougegarde</Nom>
+      <Competence1 z:Ref="53" i:nil="true" />
+      <Competence2 z:Id="58">Parade</Competence2>
+      <Competence3 z:Ref="31" i:nil="true" />
+      <IntCompetence1>25</IntCompetence1>
+      <IntCompetence2>20</IntCompetence2>
+      <IntCompetence3>20</IntCompetence3>
+      <Stats z:Ref="10" i:nil="true" />
+    </Race>
+  </LesRaces>
+</EnsembleRace>

@@ -1,0 +1,129 @@
+U:\Skyrim\Code\SkyrimProjet\bin\Debug\SkyrimProjet.exe.config
+U:\Skyrim\Code\SkyrimProjet\bin\Debug\SkyrimProjet.exe
+U:\Skyrim\Code\SkyrimProjet\bin\Debug\SkyrimProjet.pdb
+U:\Skyrim\Code\SkyrimProjet\obj\Debug\Accueil.g.cs
+U:\Skyrim\Code\SkyrimProjet\obj\Debug\MainWindow.g.cs
+U:\Skyrim\Code\SkyrimProjet\obj\Debug\UCRaces.g.cs
+U:\Skyrim\Code\SkyrimProjet\obj\Debug\App.g.cs
+U:\Skyrim\Code\SkyrimProjet\obj\Debug\GeneratedInternalTypeHelper.g.cs
+U:\Skyrim\Code\SkyrimProjet\obj\Debug\SkyrimProjet_MarkupCompile.cache
+U:\Skyrim\Code\SkyrimProjet\obj\Debug\SkyrimProjet_MarkupCompile.lref
+U:\Skyrim\Code\SkyrimProjet\obj\Debug\Accueil.baml
+U:\Skyrim\Code\SkyrimProjet\obj\Debug\MainWindow.baml
+U:\Skyrim\Code\SkyrimProjet\obj\Debug\UCRaces.baml
+U:\Skyrim\Code\SkyrimProjet\obj\Debug\SkyrimProjet.g.resources
+U:\Skyrim\Code\SkyrimProjet\obj\Debug\SkyrimProjet.Properties.Resources.resources
+U:\Skyrim\Code\SkyrimProjet\obj\Debug\SkyrimProjet.csproj.GenerateResource.cache
+U:\Skyrim\Code\SkyrimProjet\obj\Debug\SkyrimProjet.csproj.CoreCompileInputs.cache
+U:\Skyrim\Code\SkyrimProjet\obj\Debug\SkyrimProjet.exe
+U:\Skyrim\Code\SkyrimProjet\obj\Debug\SkyrimProjet.pdb
+U:\Skyrim\Code\SkyrimProjet\obj\Debug\SkyrimProjet.csprojAssemblyReference.cache
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\SkyrimProjet\bin\Debug\SkyrimProjet.exe.config
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\SkyrimProjet\bin\Debug\SkyrimProjet.exe
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\SkyrimProjet\bin\Debug\SkyrimProjet.pdb
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\SkyrimProjet\obj\Debug\SkyrimProjet.csprojAssemblyReference.cache
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\SkyrimProjet\obj\Debug\UCs\Accueil.g.cs
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\SkyrimProjet\obj\Debug\MainWindow.g.cs
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\SkyrimProjet\obj\Debug\UCs\UCRaces.g.cs
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\SkyrimProjet\obj\Debug\App.g.cs
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\SkyrimProjet\obj\Debug\GeneratedInternalTypeHelper.g.cs
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\SkyrimProjet\obj\Debug\SkyrimProjet_MarkupCompile.cache
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\SkyrimProjet\obj\Debug\SkyrimProjet_MarkupCompile.lref
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\SkyrimProjet\obj\Debug\UCs\Accueil.baml
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\SkyrimProjet\obj\Debug\MainWindow.baml
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\SkyrimProjet\obj\Debug\UCs\UCRaces.baml
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\SkyrimProjet\obj\Debug\SkyrimProjet.g.resources
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\SkyrimProjet\obj\Debug\SkyrimProjet.Properties.Resources.resources
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\SkyrimProjet\obj\Debug\SkyrimProjet.csproj.GenerateResource.cache
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\SkyrimProjet\obj\Debug\SkyrimProjet.csproj.CoreCompileInputs.cache
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\SkyrimProjet\obj\Debug\SkyrimProjet.exe
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\SkyrimProjet\obj\Debug\SkyrimProjet.pdb
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\SkyrimProjet\bin\Debug\Modele.dll
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\SkyrimProjet\bin\Debug\Stub.dll
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\SkyrimProjet\bin\Debug\Modele.pdb
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\SkyrimProjet\bin\Debug\Stub.pdb
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\SkyrimProjet\obj\Debug\SkyrimProjet.csproj.CopyComplete
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\SkyrimProjet\obj\Debug\CreationRace.g.cs
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\SkyrimProjet\obj\Debug\CreationRace.baml
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\SkyrimProjet\obj\Debug\UCs\UCCompetenceRace.g.cs
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\SkyrimProjet\obj\Debug\UCs\UCCompetenceRace.baml
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\SkyrimProjet\obj\Debug\UCs\UCDetailRace.g.cs
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\SkyrimProjet\obj\Debug\UCs\UCDetailRace.baml
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\SkyrimProjet\obj\Debug\UCs\UCCompetence.g.cs
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\SkyrimProjet\obj\Debug\UCs\UCCompetence.baml
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\SkyrimProjet\obj\Debug\UCs\UCDetailCompetence.g.cs
+U:\Cours\Année 1\Période 4\C#\Dépôt\Code\SkyrimProjet\obj\Debug\UCs\UCDetailCompetence.baml
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Période 4\C#\Code\SkyrimProjet\obj\Debug\SkyrimProjet.csprojAssemblyReference.cache
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Période 4\C#\Code\SkyrimProjet\obj\Debug\SkyrimProjet.exe
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Période 4\C#\Code\SkyrimProjet\obj\Debug\SkyrimProjet.pdb
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Période 4\C#\Code\SkyrimProjet\bin\Debug\SkyrimProjet.exe.config
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Période 4\C#\Code\SkyrimProjet\bin\Debug\SkyrimProjet.exe
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Période 4\C#\Code\SkyrimProjet\bin\Debug\SkyrimProjet.pdb
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Période 4\C#\Code\SkyrimProjet\bin\Debug\Modele.dll
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Période 4\C#\Code\SkyrimProjet\bin\Debug\Stub.dll
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Période 4\C#\Code\SkyrimProjet\bin\Debug\Modele.pdb
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Période 4\C#\Code\SkyrimProjet\bin\Debug\Stub.pdb
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Période 4\C#\Code\SkyrimProjet\obj\Debug\CreationRace.g.cs
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Période 4\C#\Code\SkyrimProjet\obj\Debug\Sauvegarde.g.cs
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Période 4\C#\Code\SkyrimProjet\obj\Debug\UCs\Accueil.g.cs
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Période 4\C#\Code\SkyrimProjet\obj\Debug\MainWindow.g.cs
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Période 4\C#\Code\SkyrimProjet\obj\Debug\UCs\UCCompetence.g.cs
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Période 4\C#\Code\SkyrimProjet\obj\Debug\UCs\UCCompetenceRace.g.cs
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Période 4\C#\Code\SkyrimProjet\obj\Debug\UCs\UCDetailCompetence.g.cs
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Période 4\C#\Code\SkyrimProjet\obj\Debug\UCs\UCRaces.g.cs
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Période 4\C#\Code\SkyrimProjet\obj\Debug\UCs\UCDetailRace.g.cs
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Période 4\C#\Code\SkyrimProjet\obj\Debug\App.g.cs
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Période 4\C#\Code\SkyrimProjet\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Période 4\C#\Code\SkyrimProjet\obj\Debug\SkyrimProjet_MarkupCompile.cache
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Période 4\C#\Code\SkyrimProjet\obj\Debug\SkyrimProjet_MarkupCompile.lref
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Période 4\C#\Code\SkyrimProjet\obj\Debug\CreationRace.baml
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Période 4\C#\Code\SkyrimProjet\obj\Debug\Sauvegarde.baml
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Période 4\C#\Code\SkyrimProjet\obj\Debug\UCs\Accueil.baml
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Période 4\C#\Code\SkyrimProjet\obj\Debug\MainWindow.baml
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Période 4\C#\Code\SkyrimProjet\obj\Debug\UCs\UCCompetence.baml
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Période 4\C#\Code\SkyrimProjet\obj\Debug\UCs\UCCompetenceRace.baml
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Période 4\C#\Code\SkyrimProjet\obj\Debug\UCs\UCDetailCompetence.baml
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Période 4\C#\Code\SkyrimProjet\obj\Debug\UCs\UCRaces.baml
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Période 4\C#\Code\SkyrimProjet\obj\Debug\UCs\UCDetailRace.baml
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Période 4\C#\Code\SkyrimProjet\obj\Debug\SkyrimProjet.g.resources
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Période 4\C#\Code\SkyrimProjet\obj\Debug\SkyrimProjet.Properties.Resources.resources
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Période 4\C#\Code\SkyrimProjet\obj\Debug\SkyrimProjet.csproj.GenerateResource.cache
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Période 4\C#\Code\SkyrimProjet\obj\Debug\SkyrimProjet.csproj.CoreCompileInputs.cache
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Période 4\C#\Code\SkyrimProjet\obj\Debug\SkyrimProjet.csproj.CopyComplete
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Projet\SkyrimProjet\bin\Debug\SkyrimProjet.exe.config
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Projet\SkyrimProjet\bin\Debug\SkyrimProjet.exe
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Projet\SkyrimProjet\bin\Debug\SkyrimProjet.pdb
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Projet\SkyrimProjet\bin\Debug\Modele.dll
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Projet\SkyrimProjet\bin\Debug\Stub.dll
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Projet\SkyrimProjet\bin\Debug\Modele.pdb
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Projet\SkyrimProjet\bin\Debug\Stub.pdb
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Projet\SkyrimProjet\obj\Debug\SkyrimProjet.csprojAssemblyReference.cache
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Projet\SkyrimProjet\obj\Debug\CreationRace.g.cs
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Projet\SkyrimProjet\obj\Debug\Sauvegarde.g.cs
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Projet\SkyrimProjet\obj\Debug\UCs\Accueil.g.cs
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Projet\SkyrimProjet\obj\Debug\MainWindow.g.cs
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Projet\SkyrimProjet\obj\Debug\UCs\UCCompetence.g.cs
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Projet\SkyrimProjet\obj\Debug\UCs\UCCompetenceRace.g.cs
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Projet\SkyrimProjet\obj\Debug\UCs\UCDetailCompetence.g.cs
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Projet\SkyrimProjet\obj\Debug\UCs\UCRaces.g.cs
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Projet\SkyrimProjet\obj\Debug\UCs\UCDetailRace.g.cs
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Projet\SkyrimProjet\obj\Debug\App.g.cs
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Projet\SkyrimProjet\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Projet\SkyrimProjet\obj\Debug\SkyrimProjet_MarkupCompile.cache
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Projet\SkyrimProjet\obj\Debug\SkyrimProjet_MarkupCompile.lref
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Projet\SkyrimProjet\obj\Debug\CreationRace.baml
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Projet\SkyrimProjet\obj\Debug\Sauvegarde.baml
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Projet\SkyrimProjet\obj\Debug\UCs\Accueil.baml
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Projet\SkyrimProjet\obj\Debug\MainWindow.baml
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Projet\SkyrimProjet\obj\Debug\UCs\UCCompetence.baml
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Projet\SkyrimProjet\obj\Debug\UCs\UCCompetenceRace.baml
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Projet\SkyrimProjet\obj\Debug\UCs\UCDetailCompetence.baml
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Projet\SkyrimProjet\obj\Debug\UCs\UCRaces.baml
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Projet\SkyrimProjet\obj\Debug\UCs\UCDetailRace.baml
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Projet\SkyrimProjet\obj\Debug\SkyrimProjet.g.resources
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Projet\SkyrimProjet\obj\Debug\SkyrimProjet.Properties.Resources.resources
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Projet\SkyrimProjet\obj\Debug\SkyrimProjet.csproj.GenerateResource.cache
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Projet\SkyrimProjet\obj\Debug\SkyrimProjet.csproj.CoreCompileInputs.cache
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Projet\SkyrimProjet\obj\Debug\SkyrimProjet.csproj.CopyComplete
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Projet\SkyrimProjet\obj\Debug\SkyrimProjet.exe
+C:\Users\Auchan\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState\rootfs\home\bizigus\IUT\Projet\SkyrimProjet\obj\Debug\SkyrimProjet.pdb

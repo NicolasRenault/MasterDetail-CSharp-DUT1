@@ -1,0 +1,27 @@
+﻿<UserControl x:Class="SkyrimProjet.UCs.Accueil"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:SkyrimProjet"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+
+    <Grid Background="Transparent">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+
+        <StackPanel Margin="10,30,10,0" >
+            <Border CornerRadius="6" BorderBrush="White" BorderThickness="1" >
+                <TextBlock FontSize="25" Text="Bienvenue sur SkyrimProject, un Master Detail à travers l'univers de The Elder Scroll V : Skyrim. The Elder Scrolls V : Skyrim est un RPG action/aventure développé par Bethesda Game Studios et édité par Bethesda Softworks. C'est le cinquième épisode de la série fantastique The Elder Scrolls. L'histoire se déroule 200 ans après son prédécesseur, The Elder Scrolls IV: Oblivion. &#10;A travers cette application vous retrouverez Les Races et Compétences emblématiques du jeu. Aussi, une fonctionalité de création de vos propres Races vous est offert pour faire par a votre imagination." TextWrapping="Wrap" Foreground="White"  Margin="25,50,25,50"/>
+            </Border>
+        </StackPanel >
+        <StackPanel Grid.Column="1">
+            <Image Source="../Images/icones/Logo-Skyrim.png"/>
+            <Label Foreground="White" Content="Application par ELAICHAOUI Medhi et RENAULT Nicolas - G1 - Année 2018/2019 UCA"/>
+        </StackPanel>
+    </Grid>
+</UserControl>

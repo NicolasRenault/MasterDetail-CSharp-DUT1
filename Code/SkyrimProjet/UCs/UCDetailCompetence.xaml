@@ -1,0 +1,37 @@
+﻿<UserControl x:Class="SkyrimProjet.UCs.UCDetailCompetence"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:SkyrimProjet.UCs"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <DockPanel>
+        <Border CornerRadius="6" BorderBrush="White" BorderThickness="1">
+
+            <Grid>
+
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+
+                <Label HorizontalAlignment="Center" VerticalAlignment="Center" BorderBrush="White" BorderThickness="0,0,0,1" FontSize="40" Content="{Binding Nom}" Foreground="White"/>
+                <StackPanel Grid.Column="0" Grid.Row="1" Margin="10,30,10,0" >
+                    <Border CornerRadius="6" BorderBrush="White" BorderThickness="1" >
+                        <TextBlock Text="{Binding Descriptif}" TextWrapping="Wrap" Foreground="White"  Margin="25,50,25,50"/>
+
+                    </Border>
+                </StackPanel >
+                <Image Grid.Column="1" Grid.RowSpan="2" Source="{Binding CheminImage}"/>
+
+
+            </Grid>
+        </Border>
+    </DockPanel>
+</UserControl>
